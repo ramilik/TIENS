@@ -1,0 +1,11 @@
+{
+  "name": "tiens-azerbaijan",
+  "version": "1.0.0",
+  "description": "Tiens Azerbaijan official website with Vercel Speed Insights",
+  "keywords": ["tiens", "azerbaijan", "health"],
+  "author": "Tiens Azerbaijan",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.10"
+  }
+}
